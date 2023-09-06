@@ -36,7 +36,7 @@ To get the application up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/uday510/EcommerceApplication.git
+   git clone https://github.com/mohitbishtdev/EcommerceApplication.git
    
 
 2. Install dependencies:
